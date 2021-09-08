@@ -9,15 +9,9 @@ public class Main {
     // Java code style
 
     public static void main(String[] args) {
-        String str = "Hello";
-        char ch = 'a';
-        int a = 100;
-        long b = a;
-        int c = 0;
-        c = (int) b;
-
+  
         for(int i=0;i<10;i++) {
-            System.out.println(i);
+            System.out.println("11111");
         }
 
 
